@@ -1,0 +1,28 @@
+{
+  "services": [
+    {
+      "service_name": "Project Plan",
+      "service_content": "Our well-structured project plans ensure efficient execution and successful outcomes for every case we handle."
+    },
+    {
+      "service_name": "Interior Work",
+      "service_content": "Our thoughtfully designed interiors combine elegance and functionality, creating a comfortable and professional workspace."
+    },
+    {
+      "service_name": "Retail Design",
+      "service_content": "We craft innovative retail designs that blend aesthetics and practicality, enhancing customer experience and brand identity."
+    },
+    {
+      "service_name": "2d/3d Art Work",
+      "service_content": "There are many variations of the passages of lorem Ipsum from available, majority."
+    },
+    {
+      "service_name": "Interior Work",
+      "service_content": "There are many variations of the passages of lorem Ipsum from available, majority."
+    },
+    {
+      "service_name": "Decoration Work",
+      "service_content": "There are many variations of the passages of lorem Ipsum from available, majority."
+    }
+  ]
+}
